@@ -1,11 +1,11 @@
 # Tensec Memo website
 
-Outline marketing site for **Tensec Memo** ([tensecmemo.com](https://tensecmemo.com)).
+Marketing site for Tensec Memo, a 10-second daily voice memo app for iPhone.
 
-This folder is the website only. App source is not kept here.
+This folder is the website only. App source lives separately.
 
-No GitHub repository exists for this site yet. The copy here is committed locally and has not been pushed.
+Live (GitHub Pages): https://erdtheturd.github.io/tensecmemo/
+
+Static HTML and CSS. Fonts are self-hosted. No build step, packages, or tracking scripts.
 
 Support: [support@tensecmemo.com](mailto:support@tensecmemo.com)
-
-Static HTML and CSS. No build step, packages, or tracking scripts.
